@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=BPvg9bndP1U
 import discord
 import time
 import asyncio
